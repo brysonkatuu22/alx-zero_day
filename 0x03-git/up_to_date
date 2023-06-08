@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull origin main
+=======
+git clone https://github.com/your-username/alx-zero_day.git
+>>>>>>> update_script
